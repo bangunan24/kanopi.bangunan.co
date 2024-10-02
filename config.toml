@@ -1,0 +1,200 @@
+baseURL = "https://kanopi.bangunan.co/"
+languageCode = "id"
+title = "Pasang Kanopi | Borongan Pembuatan & Pasang Kanopi Minimalis Murah"
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Pasang Kanopi - Borongan Pembuatan dan Pasang Kanopi Minimalis dengan harga terjangkau dan kualitas terbaik."
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/bangunanco-logo-web.png"
+  logo_amp = "/images/logo/bangunanco-512x512.png"
+  footer_logo = "/images/logo/bangunanco-logo-putih.png"
+  favicon = "/images/logo/bangunanco-512x512.png"
+  featured_image = "/images/admin/featured-image.png"
+  author = "K. Yaman"
+  telepon = "//+6285776786091"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo bangunan.co*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+
+  # Schema settings
+  keywords = ["jasa pasang kanopi", "kanopi minimalis", "tukang kanopi berpengalaman", "kanopi baja ringan", "kanopi modern", "pembuatan kanopi rumah", "kanopi murah"]
+  base_price = 2000000
+  price_range = 1000000
+  free_consultation = true
+  service_types = [
+  "Pasang Kanopi Baja Ringan",
+  "Pasang Kanopi Galvalum",
+  "Pasang Kanopi Kaca",
+  "Pasang Kanopi Minimalis",
+  "Pasang Kanopi Polycarbonate"
+  ]
+  categories = ["Jasa Kanopi", "Tukang Kanopi", "Kanopi Minimalis", "Kanopi Baja Ringan"]
+  payment_methods = ["Bayar Bertahap", "Transfer Bank", "Bayar DP 50%", "Transfer Setelah Selesai"]
+  cancellation_policies = [
+  "Layanan dapat dibatalkan jika tidak sesuai dengan kesepakatan.",
+  "Pengembalian biaya jika hasil tidak memuaskan.",
+  "Revisi gratis jika pemasangan tidak sesuai harapan."
+  ]
+  area_served = ["Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi", "Cikarang", "Karawang", "Subang", "Cikampek", "Purwakarta", "Serang"]
+  service_output = "Kanopi terpasang dengan rapi dan sesuai desain yang diinginkan"
+
+ # Hero Section
+  hero_image = "/images/admin/bg_bangunanco.png"
+  hero_title = "Pasang Kanopi Berkualitas"
+  hero_description = "Kami menawarkan layanan borongan pembuatan dan pemasangan kanopi minimalis yang terjangkau dan berkualitas. Solusi ideal untuk melindungi area luar rumah atau bangunan Anda dengan desain yang estetik dan bahan yang tahan lama."
+  hero_cta_text = "Pelajari Lebih Lanjut"
+  services_cta_text = "Cek Katalog Kanopi"
+
+  # Footer Section
+  footer_about_title = "Mengapa Memilih Kami"
+  footer_about_description = "Kami menyediakan layanan pembuatan dan pemasangan kanopi dengan desain minimalis yang berkualitas, harga terjangkau, dan layanan yang profesional. Konsultasi gratis untuk membantu Anda memilih kanopi yang sesuai dengan kebutuhan proyek Anda."
+  footer_services_title = "Kenapa Pilih Kami"
+  footer_contact_title = "Kontak Kami"
+  footer_bottom_text = "@2024 Bangunan.co. Semua Hak Dilindungi."
+
+  # Testimonials Section
+  testimonials_title = "Apa Kata Klien Kami"
+
+  [[params.footer_services]]
+  text = "kanopi.bangunan.co menawarkan layanan borongan pembuatan dan pemasangan kanopi minimalis dengan desain yang berkualitas dan harga yang bersaing. Kami mengutamakan kepuasan pelanggan dengan layanan yang rapi, efisien, dan bahan yang tahan lama. Pilih kami untuk melindungi dan memperindah rumah atau bangunan Anda dengan kanopi terbaik."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jalan Lkr. Dramaga No. 09, Bogor - JaBar"
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "+62 857-7678-6091"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "bangunanco@gmail.com"
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar1.png"
+  name = "{Budi|Andi|Joko|Eko|Rudi|Hendra|Agus|Wawan|Fajar|Rio}"
+  message = "{Saya menggunakan layanan pemasangan kanopi dari kanopi.bangunan.co untuk rumah saya, dan hasilnya {sangat memuaskan|luar biasa}. Pemasangan {rapi|teratur} dan kanopinya {berkualitas tinggi|sangat bagus}.|Layanan kanopi.bangunan.co {sangat membantu|efisien}, dan pemasangan kanopinya {rapi|bagus} sesuai dengan harapan saya.}"
+  response = "{Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan kanopi {berkualitas|unggul} untuk rumah Anda.|Kami sangat menghargai kepercayaan Anda. Senang bisa membantu memenuhi kebutuhan kanopi Anda!}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar2.png"
+  name = "{Siti|Rina|Dewi|Ayu|Sari|Fitri|Lina|Diah|Maya|Nur}"
+  message = "{kanopi.bangunan.co {sangat membantu|memudahkan} dalam memilih dan memasang kanopi untuk rumah saya. Hasilnya {sangat memuaskan|sesuai dengan harapan} dan {tepat|cocok} dengan kebutuhan saya.|Saya sangat puas dengan layanan kanopi.bangunan.co. Pemasangannya {rapi|cepat}, dan kanopinya {sesuai|tepat} dengan desain rumah saya.}"
+  response = "{Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas dengan kanopi dari kami.|Terima kasih atas ulasan positifnya. Kami senang dapat memenuhi kebutuhan kanopi rumah Anda!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar3.png"
+  name = "{Joko|Agus|Bayu|Galih|Rizal|Bambang|Faisal|Ali|Toni|Deni}"
+  message = "{Kanopi dari kanopi.bangunan.co {sangat estetis|indah} dan cocok untuk proyek {perumahan|komersial} saya. Proses pemasangan juga {cepat|efisien} dan {profesional|rapi}.|Layanan dari kanopi.bangunan.co {cepat|teratur} dan hasil pemasangan kanopinya {indah|berkualitas} untuk proyek perumahan saya.}"
+  response = "{Terima kasih! Kami berkomitmen untuk menyediakan kanopi {berkualitas|estetis} dengan layanan terbaik.|Kami senang bisa bekerja sama dengan Anda. Terima kasih atas kepercayaan Anda dalam proyek ini!}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar4.png"
+  name = "{Andi|Eko|Deni|Hendra|Toni|Wawan|Gilang|Ari|Benny|Yudi}"
+  message = "{Saya {sangat puas|senang} dengan kanopi dari kanopi.bangunan.co. Kualitasnya {sangat baik|unggul} dan pemasangannya {tahan lama|kokoh} untuk proyek saya.|Kanopi yang saya pasang dari kanopi.bangunan.co {berkualitas tinggi|sangat bagus}, dan pemasangannya {cepat|efisien}.}"
+  response = "{Senang mendengar Anda puas dengan kanopi kami. Terima kasih atas kepercayaannya!|Kami sangat menghargai kepercayaan Anda. Terima kasih telah mempercayakan proyek kanopi Anda kepada kami!}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar5.png"
+  name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah}"
+  message = "{Pelayanan kanopi.bangunan.co {sangat memuaskan|luar biasa}. Kanopi yang saya {pasang|gunakan} sangat {berkualitas|kokoh} dan sesuai dengan {harapan|ekspektasi} saya.|Saya sangat puas dengan layanan dari kanopi.bangunan.co. Kualitas kanopinya {sangat baik|hebat} dan pemasangannya {rapi|profesional}.}"
+  response = "{Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan kanopi {berkualitas|terbaik}.|Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan kami!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar6.png"
+  name = "{Eko|Rio|Galih|Faisal|Yanto|Benny|Toni|Deni|Rizal|Wawan}"
+  message = "{Kanopi dari kanopi.bangunan.co {sangat sesuai|tepat} dengan kebutuhan proyek renovasi rumah saya. Proses pemasangan {cepat|aman|efisien} dan kanopinya {berkualitas tinggi|sangat kokoh}.|Saya {puas|terkesan} dengan kanopi dari kanopi.bangunan.co. Kanopinya {berkualitas|kokoh} dan proses pemasangannya {cepat|efisien}.}"
+  response = "{Kami senang mendengar bahwa Anda puas dengan kanopi kami. Terima kasih atas {ulasannya|kepercayaannya}!|Terima kasih telah mempercayakan proyek kanopi Anda kepada kami. Kami senang hasilnya sesuai dengan harapan Anda.}"
+  rating = 5
+
+[[params.tabelItems]]
+  name = "Pasang Kanopi Baja Ringan"
+  price = "450.000 /m"
+[[params.tabelItems]]
+  name = "Pasang Kanopi Galvalum"
+  price = "600.000 /m"
+[[params.tabelItems]]
+  name = "Pasang Kanopi Kaca"
+  price = "800.000 /m"
+[[params.tabelItems]]
+  name = "Pasang Kanopi Minimalis"
+  price = "800.000 /m"
+[[params.tabelItems]]
+  name = "Pasang Kanopi Polycarbonate"
+  price = "700.000 /m"
+
+[params.appliList]
+  "Pasang Kanopi Baja Ringan" = "garasi mobil, teras, halaman belakang"
+  "Pasang Kanopi Galvalum" = "teras rumah, carport"
+  "Pasang Kanopi Kaca" = "teras mewah, area outdoor"
+  "Pasang Kanopi Minimalis" = "teras, halaman rumah modern"
+  "Pasang Kanopi Polycarbonate" = "garasi, taman rumah"
+  "Jasa Pasang Kanopi" = "kanopi untuk berbagai kebutuhan di rumah atau bangunan"
+
+[params.kegunaanList]
+  "Pasang Kanopi Baja Ringan" = "melindungi area luar rumah seperti garasi dari hujan dan panas"
+  "Pasang Kanopi Galvalum" = "memberikan perlindungan teras atau carport dengan bahan kuat dan tahan lama"
+  "Pasang Kanopi Kaca" = "memberikan kesan mewah pada teras dengan kanopi kaca transparan"
+  "Pasang Kanopi Minimalis" = "menambah kesan modern dan minimalis pada halaman rumah"
+  "Pasang Kanopi Polycarbonate" = "melindungi garasi atau taman dengan kanopi yang ringan namun kuat"
+  "Jasa Pasang Kanopi" = "jasa pemasangan kanopi yang rapih dan profesional"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Profile"
+    url = "https://bangunan.co/profile/"
+  [[params.menu_items]]
+    title = "Daftar Harga"
+    url = "https://bangunan.co/daftar-harga/"
+
+[params.header]
+   title = "Layanan Pembuatan & Pasang Kanopi Minimalis | "
+   highlight = "Bangunan.co"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"
