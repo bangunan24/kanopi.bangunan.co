@@ -1,15 +1,15 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Rio
+    name: Wawan
     message: >-
-      Layanan kanopi.bangunan.co efisien, dan pemasangan kanopinya rapi sesuai
+      Layanan kanopi.bangunan.co efisien, dan pemasangan kanopinya bagus sesuai
       dengan harapan saya.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Senang bisa membantu memenuhi
-      kebutuhan kanopi Anda!
+      Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan kanopi
+      berkualitas untuk rumah Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Diah
+    name: Ayu
     message: >-
       kanopi.bangunan.co sangat membantu dalam memilih dan memasang kanopi untuk
       rumah saya. Hasilnya sangat memuaskan dan tepat dengan kebutuhan saya.
@@ -18,38 +18,38 @@ testimonials:
       kanopi rumah Anda!
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Faisal
+    name: Galih
     message: >-
-      Kanopi dari kanopi.bangunan.co indah dan cocok untuk proyek perumahan
-      saya. Proses pemasangan juga efisien dan profesional.
+      Layanan dari kanopi.bangunan.co cepat dan hasil pemasangan kanopinya
+      berkualitas untuk proyek perumahan saya.
     response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan kanopi berkualitas dengan
+      Terima kasih! Kami berkomitmen untuk menyediakan kanopi estetis dengan
       layanan terbaik.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Yudi
+    name: Ari
     message: >-
-      Saya sangat puas dengan kanopi dari kanopi.bangunan.co. Kualitasnya unggul
-      dan pemasangannya kokoh untuk proyek saya.
+      Kanopi yang saya pasang dari kanopi.bangunan.co berkualitas tinggi, dan
+      pemasangannya cepat.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Terima kasih telah mempercayakan
       proyek kanopi Anda kepada kami!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Lina
+    name: Dewi
     message: >-
       Saya sangat puas dengan layanan dari kanopi.bangunan.co. Kualitas
-      kanopinya hebat dan pemasangannya rapi.
+      kanopinya sangat baik dan pemasangannya profesional.
     response: >-
-      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
-      kami!
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
+      kanopi berkualitas.
     rating: 5
   - avatar: /images/admin/avatar6.png
-    name: Wawan
+    name: Yanto
     message: >-
-      Kanopi dari kanopi.bangunan.co tepat dengan kebutuhan proyek renovasi
-      rumah saya. Proses pemasangan aman dan kanopinya sangat kokoh.
+      Saya terkesan dengan kanopi dari kanopi.bangunan.co. Kanopinya berkualitas
+      dan proses pemasangannya efisien.
     response: >-
-      Terima kasih telah mempercayakan proyek kanopi Anda kepada kami. Kami
-      senang hasilnya sesuai dengan harapan Anda.
+      Kami senang mendengar bahwa Anda puas dengan kanopi kami. Terima kasih
+      atas ulasannya!
     rating: 5
