@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Tomang Jakarta"
-date: "2024-05-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Tomang Jakarta. Mungkin itu saja informasi yg bisa kami sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di Tomang..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Tomang Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Tomang Jakarta. Mungkin itu saja
+  informasi yg bisa kami sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di
+  Tomang...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Tomang Jakarta** – Apa sih yang anda ketahui berkenaan dengan kanopi? Kanopi yaitu beberapa atap yang biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi mempunyai tujuan untuk memelihara halaman rumah agar tidak panas ataupun hujan. Pelataran depan tempat tinggal dapat terlindungi sebab terdapatnya kanopi diatasnya.

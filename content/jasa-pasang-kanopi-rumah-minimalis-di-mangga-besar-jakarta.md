@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Mangga Besar Jakarta"
-date: "2024-05-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Mangga Besar Jakarta. Mungkin itu saja info yang bisa kami jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di Mang..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Mangga Besar Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Mangga Besar Jakarta. Mungkin itu saja
+  info yang bisa kami jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di
+  Mang...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Mangga Besar Jakarta** – Apa sih yg anda pahami berkenaan dengan kanopi? Kanopi yakni beberapa atap yang biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi mempunyai tujuan untuk melindungi pelataran rumah supaya tidak panas ataupun hujan. Pekarangan depan tempat tinggal dapat terlindungi karena ada kanopi diatasnya.

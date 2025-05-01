@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Munjul Jakarta"
-date: "2024-05-14"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Munjul Jakarta. Mungkin itu saja informasi yang dapat kita rincikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Munj..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Munjul Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Munjul Jakarta. Mungkin itu saja
+  informasi yang dapat kita rincikan mengenai Jasa Pasang Kanopi Rumah Minimalis
+  di Munj...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Munjul Jakarta** – Apa saja yang anda ketahui mengenai kanopi? Kanopi yakni beberapa atap yg biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi memiliki tujuan untuk merawat halaman rumah supaya tidak terkena sinar matahari ataupun hujan. Pekarangan depan rumah dapat terlindungi sebab adanya kanopi diatasnya.

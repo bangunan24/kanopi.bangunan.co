@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Pekalongan"
-date: "2024-05-18"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Pekalongan. Mungkin itu saja informasi yang bisa kami jelaskan perihal Jasa Pasang Kanopi Rumah Minimalis di Pekalongan..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Pekalongan
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Pekalongan. Mungkin itu saja informasi
+  yang bisa kami jelaskan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Pekalongan...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Pekalongan** – Apa aja yang anda pahami perihal kanopi? Kanopi yakni beberapa atap yg biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi mempunyai tujuan untuk melindungi pekarangan supaya tidak panas ataupun hujan. Pekarangan depan rumah akan terlindungi sebab terdapatnya kanopi diatasnya.

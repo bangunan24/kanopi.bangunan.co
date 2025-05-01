@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Mekarwangi Bogor"
-date: "2024-05-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Mekarwangi Bogor. Mungkin itu saja info yg bisa kita uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di Mekarwangi B..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Mekarwangi Bogor
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Mekarwangi Bogor. Mungkin itu saja info
+  yg bisa kita uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di Mekarwangi
+  B...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Mekarwangi Bogor** – Apa sih yg anda pahami perihal kanopi? Kanopi ialah beberapa atap yang biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi memiliki tujuan untuk melindungi halaman rumah supaya tidak panas ataupun hujan. Pelataran depan ruko dll akan terlindungi karena terdapatnya kanopi diatasnya.

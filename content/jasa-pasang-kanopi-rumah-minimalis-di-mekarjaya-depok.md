@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Mekarjaya Depok"
-date: "2024-05-22"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Mekarjaya Depok. Mungkin itu saja informasi yang dapat kita uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di Mekar..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Mekarjaya Depok
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Mekarjaya Depok. Mungkin itu saja
+  informasi yang dapat kita uraikan tentang Jasa Pasang Kanopi Rumah Minimalis
+  di Mekar...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Mekarjaya Depok** – Apa saja yang anda ketahui berkenaan dengan kanopi? Kanopi adalah satu-satunya atap yang biasa diaplikasikan untuk halaman depan tempat tinggal ataupun jendela. Kanopi mempunyai tujuan untuk menjaga pekarangan agar tidak panas ataupun hujan. Pelataran depan rumah akan terlindungi dikarenakan terdapatnya kanopi diatasnya.

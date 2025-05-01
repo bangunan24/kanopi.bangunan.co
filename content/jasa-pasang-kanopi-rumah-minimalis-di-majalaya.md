@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Majalaya"
-date: "2024-05-20"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Majalaya. Mungkin itu saja informasi yg bisa kita uraikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Majalaya. Untu..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Majalaya
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Majalaya. Mungkin itu saja informasi yg
+  bisa kita uraikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Majalaya.
+  Untu...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Majalaya** – Apa aja yang anda tahu tentang kanopi? Kanopi adalah beberapa atap yang biasa diaplikasikan untuk halaman depan tempat tinggal ataupun jendela. Kanopi punya tujuan untuk memelihara pelataran rumah agar tidak panas ataupun hujan. Pelataran depan rumah akan terlindungi sebab ada kanopi diatasnya.

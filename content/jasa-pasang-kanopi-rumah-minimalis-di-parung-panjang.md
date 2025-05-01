@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Parung Panjang"
-date: "2024-05-22"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Parung Panjang. Mungkin itu saja info yang mampu kita jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di Parung Pan..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Parung Panjang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Parung Panjang. Mungkin itu saja info
+  yang mampu kita jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di Parung
+  Pan...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Parung Panjang** – Apa sih yang anda pahami berkenaan dengan kanopi? Kanopi yakni beberapa atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi memiliki tujuan untuk menjaga halaman rumah agar tidak panas ataupun hujan. Pekarangan depan tempat tinggal bakal terlindungi sebab adanya kanopi diatasnya.

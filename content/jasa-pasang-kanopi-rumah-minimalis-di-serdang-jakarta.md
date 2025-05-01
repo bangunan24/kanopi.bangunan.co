@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Serdang Jakarta"
-date: "2024-05-16"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Serdang Jakarta. Mungkin itu saja info yang mampu kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Serdang..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Serdang Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Serdang Jakarta. Mungkin itu saja info
+  yang mampu kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Serdang...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Serdang Jakarta** – Apa sih yg anda tahu berkenaan dengan kanopi? Kanopi yaitu salah satu atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi mempunyai tujuan untuk melindungi pekarangan supaya tidak panas ataupun hujan. Halaman depan tempat tinggal akan terlindungi karena adanya kanopi yang anda gunakan.

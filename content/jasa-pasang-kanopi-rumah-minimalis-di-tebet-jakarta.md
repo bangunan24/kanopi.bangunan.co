@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Tebet Jakarta"
-date: "2024-05-11"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Tebet Jakarta. Mungkin itu saja informasi yg dapat kita jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di Tebet Ja..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Tebet Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Tebet Jakarta. Mungkin itu saja
+  informasi yg dapat kita jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di
+  Tebet Ja...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Tebet Jakarta** – Apa sih yg anda ketahui tentang kanopi? Kanopi yakni beberapa atap yg biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi bertujuan untuk melindungi pelataran rumah agar tidak terkena sinar matahari ataupun hujan. Pekarangan depan tempat tinggal akan terlindungi karena terdapatnya kanopi diatasnya.

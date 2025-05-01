@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Pasawahan Purwakarta"
-date: "2024-05-06"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Pasawahan Purwakarta. Mungkin itu saja info yg mampu kita sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di Pasaw..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Pasawahan Purwakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Pasawahan Purwakarta. Mungkin itu saja
+  info yg mampu kita sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di
+  Pasaw...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Pasawahan Purwakarta** – Apa aja yang anda pahami tentang kanopi? Kanopi yakni beberapa atap yg biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi memiliki tujuan untuk memelihara pelataran rumah supaya tidak terkena cahaya matahari ataupun hujan. Pelataran depan rumah bakal terlindungi karena terdapatnya kanopi diatasnya.

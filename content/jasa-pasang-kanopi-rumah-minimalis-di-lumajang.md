@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Lumajang"
-date: "2024-05-18"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Lumajang. Mungkin itu saja info yang dapat kita jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di Lumajang. Untuk..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Lumajang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Lumajang. Mungkin itu saja info yang
+  dapat kita jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di Lumajang.
+  Untuk...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Lumajang** – Apa aja yg anda tahu tentang kanopi? Kanopi ialah satu-satunya atap yg biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi bertujuan untuk merawat halaman rumah agar tidak panas ataupun hujan. Pelataran depan tempat tinggal bakal terlindungi karena adanya kanopi diatasnya.
