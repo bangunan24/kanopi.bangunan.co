@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Tanjung Priok Jakarta"
-date: "2024-06-18"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Tanjung Priok Jakarta. Mungkin itu saja informasi yang dapat kami jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Tanjung Priok Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Tanjung Priok Jakarta. Mungkin itu saja
+  informasi yang dapat kami jelaskan mengenai Jasa Pasang Kanopi Rumah
+  Minimalis...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Tanjung Priok Jakarta** – Apa sih yg anda ketahui berkenaan dengan kanopi? Kanopi yaitu beberapa atap yg biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi punya tujuan untuk merawat pekarangan agar tidak panas ataupun hujan. Halaman depan tempat tinggal akan terlindungi sebab adanya kanopi diatasnya.

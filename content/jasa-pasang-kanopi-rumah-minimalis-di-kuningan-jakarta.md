@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Kuningan Jakarta"
-date: "2024-06-07"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Kuningan Jakarta. Mungkin itu saja info yang mampu kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Kuning..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Kuningan Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Kuningan Jakarta. Mungkin itu saja info
+  yang mampu kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di
+  Kuning...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Kuningan Jakarta** – Apa aja yg anda ketahui tentang kanopi? Kanopi adalah beberapa atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi memiliki tujuan untuk menjaga pelataran rumah supaya tidak terkena sinar matahari ataupun hujan. Pekarangan depan tempat tinggal akan terlindungi karena adanya kanopi diatasnya.

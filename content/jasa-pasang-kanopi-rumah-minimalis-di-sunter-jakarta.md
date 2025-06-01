@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Sunter Jakarta"
-date: "2024-06-13"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Sunter Jakarta. Mungkin itu saja informasi yg dapat kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Sunte..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Sunter Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Sunter Jakarta. Mungkin itu saja
+  informasi yg dapat kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis
+  di Sunte...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Sunter Jakarta** – Apa saja yg anda ketahui mengenai kanopi? Kanopi yakni salah satu atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi mempunyai tujuan untuk menjaga pekarangan agar tidak panas ataupun hujan. Pelataran depan ruko dll dapat terlindungi dikarenakan ada kanopi diatasnya.

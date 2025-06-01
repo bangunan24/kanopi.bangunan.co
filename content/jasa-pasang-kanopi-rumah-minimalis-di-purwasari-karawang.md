@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Purwasari Karawang"
-date: "2024-06-16"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Purwasari Karawang. Mungkin itu saja informasi yg dapat kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di P..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Purwasari Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Purwasari Karawang. Mungkin itu saja
+  informasi yg dapat kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis
+  di P...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Purwasari Karawang** – Apa aja yang anda ketahui perihal kanopi? Kanopi yaitu satu-satunya atap yang biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi bertujuan untuk melindungi halaman rumah supaya tidak panas ataupun hujan. Pekarangan depan tempat tinggal akan terlindungi dikarenakan ada kanopi diatasnya.

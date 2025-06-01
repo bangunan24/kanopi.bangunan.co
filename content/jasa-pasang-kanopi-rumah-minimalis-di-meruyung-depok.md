@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Meruyung Depok"
-date: "2024-06-24"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Meruyung Depok. Mungkin itu saja informasi yang bisa kita rincikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Meruy..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Meruyung Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Meruyung Depok. Mungkin itu saja
+  informasi yang bisa kita rincikan mengenai Jasa Pasang Kanopi Rumah Minimalis
+  di Meruy...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Meruyung Depok** – Apa sih yg anda tahu tentang kanopi? Kanopi ialah beberapa atap yang biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi memiliki tujuan untuk menjaga pelataran rumah agar tidak terkena sinar matahari ataupun hujan. Halaman depan tempat tinggal akan terlindungi sebab ada kanopi yg anda gunakan.

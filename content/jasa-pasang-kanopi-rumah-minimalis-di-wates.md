@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Wates"
-date: "2024-06-30"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Wates. Mungkin itu saja informasi yg dapat kami jelaskan perihal Jasa Pasang Kanopi Rumah Minimalis di Wates. Untuk ord..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Wates
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Wates. Mungkin itu saja informasi yg
+  dapat kami jelaskan perihal Jasa Pasang Kanopi Rumah Minimalis di Wates. Untuk
+  ord...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Wates** – Apa sih yang anda pahami tentang kanopi? Kanopi yaitu salah satu atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi bertujuan untuk melindungi pekarangan supaya tidak panas ataupun hujan. Halaman depan ruko dll akan terlindungi karena terdapatnya kanopi diatasnya.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Lenteng Agung Jakarta"
-date: "2024-06-05"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Lenteng Agung Jakarta. Mungkin itu saja informasi yg bisa kita jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Lenteng Agung Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Lenteng Agung Jakarta. Mungkin itu saja
+  informasi yg bisa kita jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis
+  di...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Lenteng Agung Jakarta** – Apa sih yang anda ketahui berkenaan dengan kanopi? Kanopi adalah satu-satunya atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi bertujuan untuk melindungi pekarangan agar tidak panas ataupun hujan. Pekarangan depan tempat tinggal dapat terlindungi karena adanya kanopi diatasnya.

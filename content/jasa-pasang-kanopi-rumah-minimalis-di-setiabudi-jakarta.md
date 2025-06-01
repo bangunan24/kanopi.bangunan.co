@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Setiabudi Jakarta"
-date: "2024-06-29"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Setiabudi Jakarta. Mungkin itu saja info yang dapat kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Setiab..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Setiabudi Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Setiabudi Jakarta. Mungkin itu saja info
+  yang dapat kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Setiab...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Setiabudi Jakarta** – Apa sih yang anda pahami mengenai kanopi? Kanopi ialah beberapa atap yg biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi punya tujuan untuk memelihara pelataran rumah supaya tidak panas ataupun hujan. Pekarangan depan ruko dll bakal terlindungi karena adanya kanopi diatasnya.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Pondok Gede Bekasi"
-date: "2024-06-06"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Pondok Gede Bekasi. Mungkin itu saja informasi yg bisa kami sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Pon..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Pondok Gede Bekasi
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Pondok Gede Bekasi. Mungkin itu saja
+  informasi yg bisa kami sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Pon...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Pondok Gede Bekasi** – Apa sih yg anda tahu berkenaan dengan kanopi? Kanopi yaitu beberapa atap yang biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi punya tujuan untuk menjaga pelataran rumah supaya tidak panas ataupun hujan. Pelataran depan rumah akan terlindungi karena adanya kanopi diatasnya.

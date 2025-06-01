@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Muntilan"
-date: "2024-06-17"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Muntilan. Mungkin itu saja informasi yang mampu kami uraikan perihal Jasa Pasang Kanopi Rumah Minimalis di Muntilan. Un..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Muntilan
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Muntilan. Mungkin itu saja informasi
+  yang mampu kami uraikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Muntilan. Un...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Muntilan** – Apa aja yang anda pahami mengenai kanopi? Kanopi yakni beberapa atap yg biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi punya tujuan untuk menjaga pekarangan agar tidak terkena cahaya matahari ataupun hujan. Halaman depan rumah bakal terlindungi sebab ada kanopi diatasnya.

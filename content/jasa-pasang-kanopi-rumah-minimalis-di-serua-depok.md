@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Serua Depok"
-date: "2024-06-19"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Serua Depok. Mungkin itu saja informasi yg dapat kita jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di Serua Dep..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Serua Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Serua Depok. Mungkin itu saja informasi
+  yg dapat kita jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di Serua
+  Dep...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Serua Depok** – Apa saja yang anda ketahui tentang kanopi? Kanopi ialah beberapa atap yg biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi bertujuan untuk merawat halaman rumah agar tidak panas ataupun hujan. Halaman depan tempat tinggal bakal terlindungi karena terdapatnya kanopi yg anda gunakan.

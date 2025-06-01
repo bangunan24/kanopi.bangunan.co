@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Pangkalan Jati Depok"
-date: "2024-06-25"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Pangkalan Jati Depok. Mungkin itu saja info yang bisa kami sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Pang..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Pangkalan Jati Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Pangkalan Jati Depok. Mungkin itu saja
+  info yang bisa kami sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Pang...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Pangkalan Jati Depok** – Apa saja yang anda ketahui mengenai kanopi? Kanopi ialah salah satu atap yang biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi mempunyai tujuan untuk melindungi pelataran rumah supaya tidak panas ataupun hujan. Pelataran depan rumah dapat terlindungi karena adanya kanopi diatasnya.
