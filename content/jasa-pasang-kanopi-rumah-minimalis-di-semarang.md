@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Semarang"
-date: "2024-07-11"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Semarang. Mungkin itu saja info yg bisa kita uraikan perihal Jasa Pasang Kanopi Rumah Minimalis di Semarang. Untuk peme..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Semarang
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Semarang. Mungkin itu saja info yg bisa
+  kita uraikan perihal Jasa Pasang Kanopi Rumah Minimalis di Semarang. Untuk
+  peme...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Semarang** – Apa sih yang anda ketahui tentang kanopi? Kanopi adalah beberapa atap yg biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi punya tujuan untuk memelihara pelataran rumah agar tidak panas ataupun hujan. Pelataran depan ruko dll bakal terlindungi sebab ada kanopi diatasnya.

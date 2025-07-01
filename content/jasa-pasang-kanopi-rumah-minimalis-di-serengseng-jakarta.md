@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Serengseng Jakarta"
-date: "2024-07-07"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Serengseng Jakarta. Mungkin itu saja info yang bisa kami rincikan perihal Jasa Pasang Kanopi Rumah Minimalis di Serengs..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Serengseng Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Serengseng Jakarta. Mungkin itu saja
+  info yang bisa kami rincikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Serengs...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Serengseng Jakarta** – Apa sih yg anda ketahui perihal kanopi? Kanopi adalah beberapa atap yang biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi punya tujuan untuk merawat pekarangan agar tidak terkena sinar matahari ataupun hujan. Halaman depan rumah bakal terlindungi sebab adanya kanopi diatasnya.

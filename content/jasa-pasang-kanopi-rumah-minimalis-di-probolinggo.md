@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Probolinggo"
-date: "2024-07-20"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Probolinggo. Mungkin itu saja info yg dapat kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Probolinggo...."
+title: Jasa Pasang Kanopi Rumah Minimalis di Probolinggo
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Probolinggo. Mungkin itu saja info yg
+  dapat kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di
+  Probolinggo....
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Probolinggo** – Apa aja yang anda pahami mengenai kanopi? Kanopi adalah beberapa atap yang biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi bertujuan untuk memelihara pelataran rumah supaya tidak terkena sinar matahari ataupun hujan. Pekarangan depan rumah dapat terlindungi karena ada kanopi diatasnya.

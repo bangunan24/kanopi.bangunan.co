@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Pondok Kopi Jakarta"
-date: "2024-07-24"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Pondok Kopi Jakarta. Mungkin itu saja info yang bisa kami sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Pondo..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Pondok Kopi Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Pondok Kopi Jakarta. Mungkin itu saja
+  info yang bisa kami sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Pondo...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Pondok Kopi Jakarta** – Apa saja yg anda ketahui berkenaan dengan kanopi? Kanopi adalah satu-satunya atap yg biasa diaplikasikan untuk halaman depan tempat tinggal ataupun jendela. Kanopi bertujuan untuk merawat pelataran rumah agar tidak panas ataupun hujan. Pelataran depan tempat tinggal akan terlindungi sebab adanya kanopi diatasnya.

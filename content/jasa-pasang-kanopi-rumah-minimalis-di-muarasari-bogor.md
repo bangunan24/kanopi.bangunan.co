@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Muarasari Bogor"
-date: "2024-07-09"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Muarasari Bogor. Mungkin itu saja informasi yg bisa kita uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di Muarasar..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Muarasari Bogor
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Muarasari Bogor. Mungkin itu saja
+  informasi yg bisa kita uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di
+  Muarasar...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Muarasari Bogor** – Apa sih yg anda pahami mengenai kanopi? Kanopi ialah beberapa atap yang biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi punya tujuan untuk menjaga halaman rumah agar tidak terkena sinar matahari ataupun hujan. Halaman depan tempat tinggal akan terlindungi karena ada kanopi diatasnya.

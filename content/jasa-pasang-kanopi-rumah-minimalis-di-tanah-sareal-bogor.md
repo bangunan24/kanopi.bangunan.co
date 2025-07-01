@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Tanah Sareal Bogor"
-date: "2024-07-17"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Tanah Sareal Bogor. Mungkin itu saja info yang bisa kami sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di Tanah..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Tanah Sareal Bogor
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Tanah Sareal Bogor. Mungkin itu saja
+  info yang bisa kami sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di
+  Tanah...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Tanah Sareal Bogor** – Apa aja yang anda ketahui mengenai kanopi? Kanopi adalah beberapa atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi punya tujuan untuk melindungi pelataran rumah agar tidak panas ataupun hujan. Halaman depan tempat tinggal dapat terlindungi dikarenakan terdapatnya kanopi diatasnya.

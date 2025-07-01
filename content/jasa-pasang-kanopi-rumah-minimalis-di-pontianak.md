@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Pontianak"
-date: "2024-07-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Pontianak. Mungkin itu saja info yg bisa kami jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di Pontianak. Untuk..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Pontianak
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Pontianak. Mungkin itu saja info yg bisa
+  kami jelaskan mengenai Jasa Pasang Kanopi Rumah Minimalis di Pontianak.
+  Untuk...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Pontianak** – Apa aja yang anda tahu mengenai kanopi? Kanopi yaitu satu-satunya atap yg biasa diaplikasikan untuk halaman depan tempat tinggal ataupun jendela. Kanopi bertujuan untuk menjaga halaman rumah agar tidak terkena cahaya matahari ataupun hujan. Pekarangan depan rumah dapat terlindungi dikarenakan ada kanopi diatasnya.

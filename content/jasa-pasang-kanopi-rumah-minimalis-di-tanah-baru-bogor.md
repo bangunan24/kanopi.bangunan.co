@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Tanah Baru Bogor"
-date: "2024-07-15"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Tanah Baru Bogor. Mungkin itu saja info yg bisa kami sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Tanah Bar..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Tanah Baru Bogor
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Tanah Baru Bogor. Mungkin itu saja info
+  yg bisa kami sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Tanah
+  Bar...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Tanah Baru Bogor** – Apa aja yg anda ketahui perihal kanopi? Kanopi ialah satu-satunya atap yang biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi mempunyai tujuan untuk memelihara pekarangan supaya tidak terkena sinar matahari ataupun hujan. Pekarangan depan tempat tinggal dapat terlindungi sebab terdapatnya kanopi diatasnya.

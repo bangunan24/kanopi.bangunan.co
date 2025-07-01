@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Pejaten Jakarta"
-date: "2024-07-14"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Pejaten Jakarta. Mungkin itu saja informasi yg bisa kami jelaskan perihal Jasa Pasang Kanopi Rumah Minimalis di Pejaten..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Pejaten Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Pejaten Jakarta. Mungkin itu saja
+  informasi yg bisa kami jelaskan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Pejaten...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Pejaten Jakarta** – Apa sih yang anda ketahui tentang kanopi? Kanopi adalah beberapa atap yg biasa diaplikasikan untuk halaman depan tempat tinggal ataupun jendela. Kanopi punya tujuan untuk merawat halaman rumah agar tidak terkena sinar matahari ataupun hujan. Halaman depan rumah dapat terlindungi karena ada kanopi diatasnya.

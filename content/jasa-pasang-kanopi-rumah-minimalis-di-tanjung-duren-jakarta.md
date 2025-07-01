@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Tanjung Duren Jakarta"
-date: "2024-07-06"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Tanjung Duren Jakarta. Mungkin itu saja info yang dapat kami uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di Tanj..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Tanjung Duren Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Tanjung Duren Jakarta. Mungkin itu saja
+  info yang dapat kami uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di
+  Tanj...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Tanjung Duren Jakarta** – Apa sih yang anda tahu tentang kanopi? Kanopi ialah beberapa atap yg biasa diaplikasikan untuk halaman depan tempat tinggal ataupun jendela. Kanopi bertujuan untuk melindungi pekarangan agar tidak terkena sinar matahari ataupun hujan. Pelataran depan ruko dll bakal terlindungi sebab terdapatnya kanopi diatasnya.
