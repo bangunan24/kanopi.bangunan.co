@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Paledang Bogor"
-date: "2024-08-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Paledang Bogor. Mungkin itu saja info yg dapat kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Paledang Bo..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Paledang Bogor
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Paledang Bogor. Mungkin itu saja info yg
+  dapat kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Paledang
+  Bo...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Paledang Bogor** – Apa saja yang anda ketahui tentang kanopi? Kanopi ialah beberapa atap yg biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi mempunyai tujuan untuk menjaga halaman rumah agar tidak panas ataupun hujan. Pelataran depan ruko dll bakal terlindungi karena terdapatnya kanopi yang anda gunakan.

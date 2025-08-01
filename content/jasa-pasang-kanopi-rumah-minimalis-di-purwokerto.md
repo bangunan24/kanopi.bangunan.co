@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Purwokerto"
-date: "2024-08-20"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Purwokerto. Mungkin itu saja informasi yang mampu kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Purwoker..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Purwokerto
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Purwokerto. Mungkin itu saja informasi
+  yang mampu kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Purwoker...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Purwokerto** – Apa saja yang anda tahu mengenai kanopi? Kanopi yaitu satu-satunya atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi bertujuan untuk melindungi halaman rumah supaya tidak terkena cahaya matahari ataupun hujan. Pelataran depan rumah akan terlindungi dikarenakan adanya kanopi yg anda gunakan.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Pengadegan Jakarta"
-date: "2024-08-05"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Pengadegan Jakarta. Mungkin itu saja info yg bisa kita jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di Pengadega..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Pengadegan Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Pengadegan Jakarta. Mungkin itu saja
+  info yg bisa kita jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di
+  Pengadega...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Pengadegan Jakarta** – Apa saja yang anda ketahui mengenai kanopi? Kanopi adalah salah satu atap yang biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi memiliki tujuan untuk menjaga halaman rumah supaya tidak terkena cahaya matahari ataupun hujan. Pekarangan depan rumah bakal terlindungi dikarenakan ada kanopi yg anda gunakan.

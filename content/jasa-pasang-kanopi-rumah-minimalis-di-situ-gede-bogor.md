@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Situ Gede Bogor"
-date: "2024-08-27"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Situ Gede Bogor. Mungkin itu saja info yang mampu kami sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di Situ Ged..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Situ Gede Bogor
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Situ Gede Bogor. Mungkin itu saja info
+  yang mampu kami sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di Situ
+  Ged...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Situ Gede Bogor** – Apa sih yg anda tahu perihal kanopi? Kanopi adalah salah satu atap yg biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi bertujuan untuk memelihara pekarangan agar tidak terkena sinar matahari ataupun hujan. Pelataran depan rumah dapat terlindungi dikarenakan terdapatnya kanopi diatasnya.

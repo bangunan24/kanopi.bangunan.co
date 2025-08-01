@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Purwodadi"
-date: "2024-08-16"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Purwodadi. Mungkin itu saja info yang mampu kami jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di Purwodadi. Untu..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Purwodadi
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Purwodadi. Mungkin itu saja info yang
+  mampu kami jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di Purwodadi.
+  Untu...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Purwodadi** – Apa saja yg anda ketahui mengenai kanopi? Kanopi adalah salah satu atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi punya tujuan untuk menjaga halaman rumah supaya tidak terkena cahaya matahari ataupun hujan. Pekarangan depan rumah bakal terlindungi karena ada kanopi yg anda gunakan.

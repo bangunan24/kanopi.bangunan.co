@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Petukangan Jakarta"
-date: "2024-08-25"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Petukangan Jakarta. Mungkin itu saja informasi yg dapat kita uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di Petu..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Petukangan Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Petukangan Jakarta. Mungkin itu saja
+  informasi yg dapat kita uraikan tentang Jasa Pasang Kanopi Rumah Minimalis di
+  Petu...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Petukangan Jakarta** – Apa aja yg anda tahu perihal kanopi? Kanopi yakni satu-satunya atap yang biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi bertujuan untuk merawat halaman rumah supaya tidak terkena sinar matahari ataupun hujan. Pekarangan depan rumah akan terlindungi karena adanya kanopi diatasnya.

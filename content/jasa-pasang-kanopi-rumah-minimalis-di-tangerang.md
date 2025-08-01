@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Tangerang"
-date: "2024-08-15"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Tangerang. Mungkin itu saja info yang dapat kita sampaikan berkenaan Jasa Pasang Kanopi Rumah Minimalis di Tangerang. U..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Tangerang
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Tangerang. Mungkin itu saja info yang
+  dapat kita sampaikan berkenaan Jasa Pasang Kanopi Rumah Minimalis di
+  Tangerang. U...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Tangerang** – Apa sih yang anda tahu mengenai kanopi? Kanopi adalah salah satu atap yang biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi memiliki tujuan untuk menjaga pelataran rumah agar tidak panas ataupun hujan. Pelataran depan rumah akan terlindungi karena terdapatnya kanopi diatasnya.

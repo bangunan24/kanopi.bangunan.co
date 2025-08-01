@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Sukmajaya Depok"
-date: "2024-08-24"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Sukmajaya Depok. Mungkin itu saja informasi yang mampu kita rincikan perihal Jasa Pasang Kanopi Rumah Minimalis di Sukm..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Sukmajaya Depok
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Sukmajaya Depok. Mungkin itu saja
+  informasi yang mampu kita rincikan perihal Jasa Pasang Kanopi Rumah Minimalis
+  di Sukm...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Sukmajaya Depok** – Apa sih yang anda tahu tentang kanopi? Kanopi yaitu salah satu atap yang biasa diaplikasikan untuk halaman depan rumah ataupun jendela. Kanopi memiliki tujuan untuk merawat pelataran rumah supaya tidak terkena sinar matahari ataupun hujan. Pelataran depan tempat tinggal akan terlindungi sebab adanya kanopi diatasnya.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Slipi Jakarta"
-date: "2024-08-15"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Slipi Jakarta. Mungkin itu saja informasi yang bisa kami rincikan perihal Jasa Pasang Kanopi Rumah Minimalis di Slipi J..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Slipi Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Slipi Jakarta. Mungkin itu saja
+  informasi yang bisa kami rincikan perihal Jasa Pasang Kanopi Rumah Minimalis
+  di Slipi J...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Slipi Jakarta** – Apa aja yg anda tahu mengenai kanopi? Kanopi yakni beberapa atap yang biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi mempunyai tujuan untuk menjaga halaman rumah supaya tidak terkena sinar matahari ataupun hujan. Halaman depan tempat tinggal dapat terlindungi dikarenakan ada kanopi diatasnya.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Makassar"
-date: "2024-08-21"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Makassar. Mungkin itu saja info yg bisa kami rincikan tentang Jasa Pasang Kanopi Rumah Minimalis di Makassar. Untuk pem..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Makassar
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Makassar. Mungkin itu saja info yg bisa
+  kami rincikan tentang Jasa Pasang Kanopi Rumah Minimalis di Makassar. Untuk
+  pem...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Makassar** – Apa aja yg anda pahami mengenai kanopi? Kanopi adalah salah satu atap yg biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi memiliki tujuan untuk melindungi pelataran rumah supaya tidak panas ataupun hujan. Pelataran depan tempat tinggal dapat terlindungi dikarenakan adanya kanopi diatasnya.

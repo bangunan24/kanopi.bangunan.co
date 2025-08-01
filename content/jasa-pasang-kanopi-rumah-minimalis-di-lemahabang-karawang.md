@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Lemahabang Karawang"
-date: "2024-08-11"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Lemahabang Karawang. Mungkin itu saja info yang dapat kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di Lema..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Lemahabang Karawang
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Lemahabang Karawang. Mungkin itu saja
+  info yang dapat kita sampaikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Lema...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Lemahabang Karawang** – Apa sih yang anda tahu tentang kanopi? Kanopi ialah beberapa atap yang biasa diaplikasikan untuk halaman depan tempat tinggal ataupun jendela. Kanopi bertujuan untuk memelihara halaman rumah supaya tidak terkena cahaya matahari ataupun hujan. Halaman depan ruko dll dapat terlindungi dikarenakan adanya kanopi diatasnya.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Tegallega Bogor"
-date: "2024-08-31"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Tegallega Bogor. Mungkin itu saja informasi yang dapat kami sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis di Teg..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Tegallega Bogor
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Tegallega Bogor. Mungkin itu saja
+  informasi yang dapat kami sampaikan tentang Jasa Pasang Kanopi Rumah Minimalis
+  di Teg...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Tegallega Bogor** – Apa saja yg anda ketahui perihal kanopi? Kanopi yaitu beberapa atap yang biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi mempunyai tujuan untuk melindungi pelataran rumah supaya tidak terkena cahaya matahari ataupun hujan. Pelataran depan tempat tinggal dapat terlindungi dikarenakan ada kanopi diatasnya.

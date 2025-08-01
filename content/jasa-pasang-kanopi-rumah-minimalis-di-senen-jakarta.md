@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Senen Jakarta"
-date: "2024-08-09"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Senen Jakarta. Mungkin itu saja info yang bisa kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Senen Jaka..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Senen Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Senen Jakarta. Mungkin itu saja info
+  yang bisa kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Senen
+  Jaka...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Senen Jakarta** – Apa sih yg anda tahu tentang kanopi? Kanopi ialah beberapa atap yg biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi memiliki tujuan untuk memelihara pelataran rumah agar tidak terkena sinar matahari ataupun hujan. Pelataran depan tempat tinggal dapat terlindungi karena adanya kanopi yg anda gunakan.

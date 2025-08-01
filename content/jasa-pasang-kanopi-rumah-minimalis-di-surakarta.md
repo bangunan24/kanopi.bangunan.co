@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Surakarta"
-date: "2024-08-20"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Surakarta. Mungkin itu saja informasi yang bisa kita uraikan perihal Jasa Pasang Kanopi Rumah Minimalis di Surakarta. U..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Surakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Surakarta. Mungkin itu saja informasi
+  yang bisa kita uraikan perihal Jasa Pasang Kanopi Rumah Minimalis di
+  Surakarta. U...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Surakarta** – Apa aja yg anda tahu berkenaan dengan kanopi? Kanopi ialah beberapa atap yang biasa diaplikasikan untuk halaman depan tempat tinggal ataupun jendela. Kanopi bertujuan untuk memelihara halaman rumah supaya tidak terkena cahaya matahari ataupun hujan. Pekarangan depan ruko dll dapat terlindungi karena ada kanopi diatasnya.

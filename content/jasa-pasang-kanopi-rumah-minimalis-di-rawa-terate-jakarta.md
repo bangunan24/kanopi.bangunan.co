@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Rawa Terate Jakarta"
-date: "2024-08-24"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Rawa Terate Jakarta. Mungkin itu saja info yg mampu kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di Rawa..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Rawa Terate Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Rawa Terate Jakarta. Mungkin itu saja
+  info yg mampu kita sampaikan mengenai Jasa Pasang Kanopi Rumah Minimalis di
+  Rawa...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Rawa Terate Jakarta** – Apa saja yg anda tahu berkenaan dengan kanopi? Kanopi yakni salah satu atap yg biasa digunakan untuk halaman depan tempat tinggal ataupun jendela. Kanopi punya tujuan untuk melindungi pekarangan agar tidak terkena cahaya matahari ataupun hujan. Halaman depan rumah dapat terlindungi dikarenakan ada kanopi diatasnya.
