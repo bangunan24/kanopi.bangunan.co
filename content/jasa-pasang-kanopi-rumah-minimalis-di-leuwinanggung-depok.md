@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Kanopi Rumah Minimalis di Leuwinanggung Depok"
-date: "2024-09-08"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Kanopi Rumah Minimalis di Leuwinanggung Depok. Mungkin itu saja informasi yang bisa kami jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis di L..."
+title: Jasa Pasang Kanopi Rumah Minimalis di Leuwinanggung Depok
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Kanopi Rumah Minimalis di Leuwinanggung Depok. Mungkin itu saja
+  informasi yang bisa kami jelaskan tentang Jasa Pasang Kanopi Rumah Minimalis
+  di L...
 ---
 
 **Jasa Pasang Kanopi Rumah Minimalis di Leuwinanggung Depok** – Apa sih yang anda ketahui berkenaan dengan kanopi? Kanopi ialah satu-satunya atap yg biasa digunakan untuk halaman depan rumah ataupun jendela. Kanopi bertujuan untuk menjaga pekarangan agar tidak terkena cahaya matahari ataupun hujan. Pelataran depan rumah akan terlindungi sebab adanya kanopi yg anda gunakan.
