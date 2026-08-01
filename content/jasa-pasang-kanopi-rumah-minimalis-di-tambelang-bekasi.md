@@ -1,6 +1,6 @@
 ---
 title: Jasa Pasang Kanopi Rumah Minimalis di Tambelang Bekasi
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - biaya
 description: >-
