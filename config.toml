@@ -1,4 +1,6 @@
-baseURL = "https://kanopi.bangunan.co/"
+# SINGLE place the domain is defined: baseURL below + [params] brand. Tools and theme read these.
+# Use __DOMAIN__ (host of baseURL) and __BRAND__ (params.brand) inside text values instead of typing the domain.
+baseURL = "https://kanopi-bangunan-co.pages.dev/"
 languageCode = "id"
 title = "Pasang Kanopi | Borongan Pembuatan & Pasang Kanopi Minimalis Murah"
 theme = "saeseen-hugo"
@@ -11,6 +13,9 @@ paginate = 6
   category = "/:slug/"
 
 [params]
+  brand = "bangunan.co"
+  # Parent-site price list page (used by the homepage button); change here if the parent domain changes.
+  price_list_url = "https://bangunan-co.pages.dev/daftar-harga/"
   # Site-wide settings
   meta_description = "Pasang Kanopi - Borongan Pembuatan dan Pasang Kanopi Minimalis dengan harga terjangkau dan kualitas terbaik."
   viewport = "width=device-width, initial-scale=1.0"
@@ -22,7 +27,7 @@ paginate = 6
   featured_image = "/images/admin/featured-image.png"
   author = "K. Yaman"
   telepon = "//+6285776786091"
-  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo bangunan.co*%20%3A"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo __BRAND__*%20%3A"
   enableWhatApps = true
   enableTelepon = true
   tocMinWordCount = 300
@@ -71,7 +76,7 @@ paginate = 6
   testimonials_title = "Apa Kata Klien Kami"
 
   [[params.footer_services]]
-  text = "kanopi.bangunan.co menawarkan layanan borongan pembuatan dan pemasangan kanopi minimalis dengan desain yang berkualitas dan harga yang bersaing. Kami mengutamakan kepuasan pelanggan dengan layanan yang rapi, efisien, dan bahan yang tahan lama. Pilih kami untuk melindungi dan memperindah rumah atau bangunan Anda dengan kanopi terbaik."
+  text = "__DOMAIN__ menawarkan layanan borongan pembuatan dan pemasangan kanopi minimalis dengan desain yang berkualitas dan harga yang bersaing. Kami mengutamakan kepuasan pelanggan dengan layanan yang rapi, efisien, dan bahan yang tahan lama. Pilih kami untuk melindungi dan memperindah rumah atau bangunan Anda dengan kanopi terbaik."
 
   [[params.footer_contact]]
     icon = "fas fa-map-marker-alt"
@@ -86,42 +91,42 @@ paginate = 6
 [[params.testimonials]]
   avatar = "/images/admin/avatar1.png"
   name = "{Budi|Andi|Joko|Eko|Rudi|Hendra|Agus|Wawan|Fajar|Rio}"
-  message = "{Saya menggunakan layanan pemasangan kanopi dari kanopi.bangunan.co untuk rumah saya, dan hasilnya {sangat memuaskan|luar biasa}. Pemasangan {rapi|teratur} dan kanopinya {berkualitas tinggi|sangat bagus}.|Layanan kanopi.bangunan.co {sangat membantu|efisien}, dan pemasangan kanopinya {rapi|bagus} sesuai dengan harapan saya.}"
+  message = "{Saya menggunakan layanan pemasangan kanopi dari __DOMAIN__ untuk rumah saya, dan hasilnya {sangat memuaskan|luar biasa}. Pemasangan {rapi|teratur} dan kanopinya {berkualitas tinggi|sangat bagus}.|Layanan __DOMAIN__ {sangat membantu|efisien}, dan pemasangan kanopinya {rapi|bagus} sesuai dengan harapan saya.}"
   response = "{Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan kanopi {berkualitas|unggul} untuk rumah Anda.|Kami sangat menghargai kepercayaan Anda. Senang bisa membantu memenuhi kebutuhan kanopi Anda!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
   name = "{Siti|Rina|Dewi|Ayu|Sari|Fitri|Lina|Diah|Maya|Nur}"
-  message = "{kanopi.bangunan.co {sangat membantu|memudahkan} dalam memilih dan memasang kanopi untuk rumah saya. Hasilnya {sangat memuaskan|sesuai dengan harapan} dan {tepat|cocok} dengan kebutuhan saya.|Saya sangat puas dengan layanan kanopi.bangunan.co. Pemasangannya {rapi|cepat}, dan kanopinya {sesuai|tepat} dengan desain rumah saya.}"
+  message = "{__DOMAIN__ {sangat membantu|memudahkan} dalam memilih dan memasang kanopi untuk rumah saya. Hasilnya {sangat memuaskan|sesuai dengan harapan} dan {tepat|cocok} dengan kebutuhan saya.|Saya sangat puas dengan layanan __DOMAIN__. Pemasangannya {rapi|cepat}, dan kanopinya {sesuai|tepat} dengan desain rumah saya.}"
   response = "{Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas dengan kanopi dari kami.|Terima kasih atas ulasan positifnya. Kami senang dapat memenuhi kebutuhan kanopi rumah Anda!}"
   rating = 5
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar3.png"
   name = "{Joko|Agus|Bayu|Galih|Rizal|Bambang|Faisal|Ali|Toni|Deni}"
-  message = "{Kanopi dari kanopi.bangunan.co {sangat estetis|indah} dan cocok untuk proyek {perumahan|komersial} saya. Proses pemasangan juga {cepat|efisien} dan {profesional|rapi}.|Layanan dari kanopi.bangunan.co {cepat|teratur} dan hasil pemasangan kanopinya {indah|berkualitas} untuk proyek perumahan saya.}"
+  message = "{Kanopi dari __DOMAIN__ {sangat estetis|indah} dan cocok untuk proyek {perumahan|komersial} saya. Proses pemasangan juga {cepat|efisien} dan {profesional|rapi}.|Layanan dari __DOMAIN__ {cepat|teratur} dan hasil pemasangan kanopinya {indah|berkualitas} untuk proyek perumahan saya.}"
   response = "{Terima kasih! Kami berkomitmen untuk menyediakan kanopi {berkualitas|estetis} dengan layanan terbaik.|Kami senang bisa bekerja sama dengan Anda. Terima kasih atas kepercayaan Anda dalam proyek ini!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
   name = "{Andi|Eko|Deni|Hendra|Toni|Wawan|Gilang|Ari|Benny|Yudi}"
-  message = "{Saya {sangat puas|senang} dengan kanopi dari kanopi.bangunan.co. Kualitasnya {sangat baik|unggul} dan pemasangannya {tahan lama|kokoh} untuk proyek saya.|Kanopi yang saya pasang dari kanopi.bangunan.co {berkualitas tinggi|sangat bagus}, dan pemasangannya {cepat|efisien}.}"
+  message = "{Saya {sangat puas|senang} dengan kanopi dari __DOMAIN__. Kualitasnya {sangat baik|unggul} dan pemasangannya {tahan lama|kokoh} untuk proyek saya.|Kanopi yang saya pasang dari __DOMAIN__ {berkualitas tinggi|sangat bagus}, dan pemasangannya {cepat|efisien}.}"
   response = "{Senang mendengar Anda puas dengan kanopi kami. Terima kasih atas kepercayaannya!|Kami sangat menghargai kepercayaan Anda. Terima kasih telah mempercayakan proyek kanopi Anda kepada kami!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
   name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah}"
-  message = "{Pelayanan kanopi.bangunan.co {sangat memuaskan|luar biasa}. Kanopi yang saya {pasang|gunakan} sangat {berkualitas|kokoh} dan sesuai dengan {harapan|ekspektasi} saya.|Saya sangat puas dengan layanan dari kanopi.bangunan.co. Kualitas kanopinya {sangat baik|hebat} dan pemasangannya {rapi|profesional}.}"
+  message = "{Pelayanan __DOMAIN__ {sangat memuaskan|luar biasa}. Kanopi yang saya {pasang|gunakan} sangat {berkualitas|kokoh} dan sesuai dengan {harapan|ekspektasi} saya.|Saya sangat puas dengan layanan dari __DOMAIN__. Kualitas kanopinya {sangat baik|hebat} dan pemasangannya {rapi|profesional}.}"
   response = "{Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan kanopi {berkualitas|terbaik}.|Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan kami!}"
   rating = 5
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
   name = "{Eko|Rio|Galih|Faisal|Yanto|Benny|Toni|Deni|Rizal|Wawan}"
-  message = "{Kanopi dari kanopi.bangunan.co {sangat sesuai|tepat} dengan kebutuhan proyek renovasi rumah saya. Proses pemasangan {cepat|aman|efisien} dan kanopinya {berkualitas tinggi|sangat kokoh}.|Saya {puas|terkesan} dengan kanopi dari kanopi.bangunan.co. Kanopinya {berkualitas|kokoh} dan proses pemasangannya {cepat|efisien}.}"
+  message = "{Kanopi dari __DOMAIN__ {sangat sesuai|tepat} dengan kebutuhan proyek renovasi rumah saya. Proses pemasangan {cepat|aman|efisien} dan kanopinya {berkualitas tinggi|sangat kokoh}.|Saya {puas|terkesan} dengan kanopi dari __DOMAIN__. Kanopinya {berkualitas|kokoh} dan proses pemasangannya {cepat|efisien}.}"
   response = "{Kami senang mendengar bahwa Anda puas dengan kanopi kami. Terima kasih atas {ulasannya|kepercayaannya}!|Terima kasih telah mempercayakan proyek kanopi Anda kepada kami. Kami senang hasilnya sesuai dengan harapan Anda.}"
   rating = 5
 
@@ -163,19 +168,29 @@ paginate = 6
     url = "/"
   [[params.menu_items]]
     title = "Profile"
-    url = "https://bangunan.co/profile/"
+    url = "https://bangunan-co.pages.dev/profile/"
   [[params.menu_items]]
     title = "Daftar Harga"
-    url = "https://bangunan.co/daftar-harga/"
+    url = "https://bangunan-co.pages.dev/daftar-harga/"
 
 [params.header]
    title = "Layanan Pembuatan & Pasang Kanopi Minimalis | "
    highlight = "Bangunan.co"
 
+# Sitemap <lastmod> and the "Diperbarui" label come from the `lastmod:` front-matter field that
+# tools/recycle-posts.js, revise-articles.js and fix-orphans.js bump (the real publish `date:`
+# stays untouched).
+[frontmatter]
+  lastmod = ["lastmod", "date", "publishDate"]
+
 [markup]
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 3
+  # Required by tools/lib/safe-table.js: AI-generated tables are rendered as raw HTML
+  # (<table class="table">). Without this Hugo replaces raw HTML with "<!-- raw HTML omitted -->".
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [related]
   threshold = 80
