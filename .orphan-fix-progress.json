@@ -1,4 +1,16 @@
 {
-  "fixed": [],
-  "failed": {}
+  "fixed": [
+    "/jasa-pasang-kanopi-rumah-minimalis-di-adiwerna/",
+    "/jasa-pasang-kanopi-rumah-minimalis-di-angke-jakarta/",
+    "/jasa-pasang-kanopi-rumah-minimalis-di-babakan-bogor/",
+    "/jasa-pasang-kanopi-rumah-minimalis-di-balaraja-tangerang/",
+    "/jasa-pasang-kanopi-rumah-minimalis-di-baleendah/",
+    "/jasa-pasang-kanopi-rumah-minimalis-di-balumbang-jaya-bogor/",
+    "/jasa-pasang-kanopi-rumah-minimalis-di-bambu-apus-jakarta/",
+    "/jasa-pasang-kanopi-rumah-minimalis-di-bandung/"
+  ],
+  "failed": {
+    "/jasa-pasang-kanopi-rumah-minimalis-di-ancol-jakarta/": 1,
+    "/jasa-pasang-kanopi-rumah-minimalis-di-balongan/": 1
+  }
 }

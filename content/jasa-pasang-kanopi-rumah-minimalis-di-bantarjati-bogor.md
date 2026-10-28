@@ -1,7 +1,7 @@
 ---
 title: Jasa Pasang Kanopi Rumah Minimalis di Bantarjati Bogor
 date: '2026-07-01'
-lastmod: "2026-10-21"
+lastmod: "2026-10-28"
 categories:
   - biaya
 description: >-
@@ -51,7 +51,7 @@ Harga yang terjangkau menjadi salah satu keunggulan utama kanopi rumah minimalis
 
 {{< table-tables table="table2" >}}
 
-Banyak pemilik rumah di Bantarjati Bogor kini yang telah memasang kanopi sebagai bagian integral dari desain rumah mereka. Kanopi sering digunakan untuk melindungi garasi mobil, area parkir, atau bahkan sebagai penutup jendela. Pemanfaatan kanopi sangat fleksibel dan dapat disesuaikan dengan kebutuhan spesifik Anda.
+Banyak pemilik rumah di Bantarjati Bogor kini yang telah memasang kanopi sebagai bagian integral dari desain rumah mereka. Kanopi sering digunakan untuk melindungi garasi mobil, area parkir, atau bahkan sebagai [penutup jendela](/jasa-pasang-kanopi-rumah-minimalis-di-babakan-bogor/). Pemanfaatan kanopi sangat fleksibel dan dapat disesuaikan dengan kebutuhan spesifik Anda.
 
 Untuk mendapatkan informasi detail mengenai harga, Anda dapat melihat tabel harga yang tersedia **Ref by:**  [Kanopi Rumah Minimalis Bantarjati Bogor](https://id.wikipedia.org/wiki/Kanopi) atau menghubungi tim kami untuk penawaran khusus. Harga kanopi rumah dapat berkisar antara Rp. 450.000 hingga Rp. 800.000 untuk kualitas standar. Harga dapat meningkat jika Anda memilih bahan yang lebih berkualitas.
 

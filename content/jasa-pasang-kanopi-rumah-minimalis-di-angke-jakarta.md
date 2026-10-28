@@ -1,7 +1,7 @@
 ---
 title: Jasa Pasang Kanopi Rumah Minimalis di Angke Jakarta
 date: '2026-07-01'
-lastmod: "2026-10-21"
+lastmod: "2026-10-28"
 categories:
   - biaya
 description: >-
@@ -47,7 +47,7 @@ Mengenai biaya, kami menawarkan harga yang kompetitif dan sesuai dengan kualitas
 
 {{< table-tables table="table2" >}}
 
-Banyak orang di Angke Jakarta kini menyadari pentingnya memiliki kanopi untuk melindungi properti mereka. Kanopi tidak hanya berfungsi sebagai pelindung, tetapi juga dapat meningkatkan estetika rumah Anda. Kanopi dapat digunakan untuk berbagai keperluan, seperti melindungi garasi mobil, area parkir, atau teras rumah.
+Banyak orang di Angke Jakarta kini menyadari pentingnya memiliki [kanopi untuk melindungi properti mereka](/jasa-pasang-kanopi-rumah-minimalis-di-adiwerna/). Kanopi tidak hanya berfungsi sebagai pelindung, tetapi juga dapat meningkatkan estetika rumah Anda. Kanopi dapat digunakan untuk berbagai keperluan, seperti melindungi garasi mobil, area parkir, atau teras rumah.
 
 Mengenai harga, perkiraan biaya pemasangan kanopi rumah dengan kualitas standar berkisar antara Rp. 450.000 hingga Rp. 800.000. Perlu diingat bahwa harga dapat bervariasi tergantung pada jenis material, ukuran kanopi, dan kompleksitas desain. Untuk informasi harga yang lebih akurat, kami sarankan Anda untuk berkonsultasi langsung dengan tim kami.
 

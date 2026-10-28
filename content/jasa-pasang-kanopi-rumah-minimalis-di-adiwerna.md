@@ -1,7 +1,7 @@
 ---
 title: Jasa Pasang Kanopi Rumah Minimalis di Adiwerna
 date: '2026-06-01'
-lastmod: "2026-10-21"
+lastmod: "2026-10-28"
 categories:
   - biaya
 description: >-
@@ -49,7 +49,7 @@ Harga yang relatif terjangkau menjadikan kanopi rumah sebagai solusi yang ekonom
 
 {{< table-tables table="table2" >}}
 
-Banyak pemilik rumah di Adiwerna yang telah merasakan manfaat memiliki kanopi. Pemanfaatannya sangat beragam, mulai dari melindungi mobil di garasi, menciptakan area parkir yang teduh, hingga memberikan perlindungan pada jendela dan teras. Semua tergantung pada kebutuhan spesifik Anda.
+Banyak pemilik rumah di Adiwerna yang telah merasakan manfaat memiliki [kanopi](/jasa-pasang-kanopi-rumah-minimalis-di-baleendah/). Pemanfaatannya sangat beragam, mulai dari melindungi mobil di garasi, menciptakan area parkir yang teduh, hingga memberikan perlindungan pada jendela dan teras. Semua tergantung pada kebutuhan spesifik Anda.
 
 Untuk memberikan gambaran, perkiraan biaya pemasangan kanopi rumah berkisar antara Rp. 450.000 hingga Rp. 800.000 untuk kualitas standar. Namun, harga dapat meningkat jika Anda memilih material yang lebih berkualitas tinggi. 
 
