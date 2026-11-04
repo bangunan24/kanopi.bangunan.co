@@ -1,7 +1,7 @@
 ---
 title: Jasa Pasang Kanopi Rumah Minimalis di Batujaya Karawang
 date: '2026-07-01'
-lastmod: "2026-10-22"
+lastmod: "2026-11-04"
 categories:
   - biaya
 description: >-
@@ -49,7 +49,7 @@ Kami menawarkan harga yang kompetitif untuk jasa pasang kanopi rumah minimalis d
 
 {{< table-tables table="table2" >}}
 
-Apakah Anda sudah mempertimbangkan untuk memasang kanopi di rumah Anda? Banyak orang di Batujaya Karawang yang telah merasakan manfaatnya, baik untuk melindungi garasi, area parkir, atau sebagai penutup teras. Pilihan penggunaan kanopi sangat beragam, tergantung kebutuhan Anda.
+Apakah Anda sudah mempertimbangkan untuk memasang kanopi di rumah Anda? Banyak orang di Batujaya Karawang yang telah merasakan [manfaatnya](/jasa-pasang-kanopi-rumah-minimalis-di-banyusari-karawang/), baik untuk melindungi garasi, area parkir, atau sebagai penutup teras. Pilihan penggunaan kanopi sangat beragam, tergantung kebutuhan Anda.
 
 Untuk memberikan gambaran, harga kanopi rumah dengan kualitas standar berkisar antara Rp. 450.000 – Rp. 800.000 per meter persegi. Namun, perlu diingat bahwa harga ini dapat bervariasi tergantung pada material yang dipilih dan kompleksitas desain. Kualitas material yang lebih baik tentu akan berpengaruh pada harga akhir.
 
