@@ -1,7 +1,7 @@
 ---
 title: Jasa Pasang Kanopi Rumah Minimalis di Ciampel Karawang
 date: '2026-06-01'
-lastmod: "2026-10-26"
+lastmod: "2026-11-11"
 categories:
   - biaya
 description: >-
@@ -49,7 +49,7 @@ Kami memahami pentingnya anggaran. Oleh karena itu, kami menawarkan harga yang k
 
 {{< table-tables table="table2" >}}
 
-Apakah Anda sudah mempertimbangkan untuk memasang kanopi di rumah atau bangunan Anda? Banyak warga Ciampel Karawang yang telah merasakan manfaatnya, baik untuk melindungi garasi mobil, area parkir, jendela, atau area terbuka lainnya. Penggunaan kanopi akan sangat bergantung pada kebutuhan spesifik Anda.
+Apakah Anda sudah mempertimbangkan untuk memasang kanopi di rumah atau bangunan Anda? Banyak warga Ciampel Karawang yang telah merasakan manfaatnya, baik untuk melindungi [garasi mobil, area parkir, jendela, atau area terbuka lainnya](/jasa-pasang-kanopi-rumah-minimalis-di-batujaya-karawang/). Penggunaan kanopi akan sangat bergantung pada kebutuhan spesifik Anda.
 
 Untuk memberikan gambaran, harga kanopi rumah dengan kualitas standar biasanya berkisar antara Rp. 450.000 hingga Rp. 800.000 per meter persegi. Namun, harga dapat lebih tinggi jika Anda memilih material berkualitas superior.
 
